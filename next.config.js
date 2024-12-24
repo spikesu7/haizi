@@ -6,8 +6,6 @@ const nextConfig = {
   },
   basePath: '/haizi',
   assetPrefix: '/haizi/',
-  trailingSlash: true,
-  distDir: 'dist',
 }
 
 module.exports = nextConfig
